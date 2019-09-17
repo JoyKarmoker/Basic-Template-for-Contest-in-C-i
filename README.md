@@ -1,1 +1,1 @@
-# Basic-Template-for-Contest-in-C-i
+# Basic-Template Code for all Contests in C++
